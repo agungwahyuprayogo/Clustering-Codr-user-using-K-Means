@@ -169,3 +169,12 @@ Pada cluster ini banyak pengguna yang berhenti di exercise, disarankan untuk men
 ![27 cluster 4](https://github.com/user-attachments/assets/3b720a1a-b115-4c92-8061-9a2a46d7b15f)
 
 Pada Cluster ini, pengguna berhenti di fitur Load Topic, saran pertama untuk menambahkan bahasa Indonesia dan Geust Mode, agar pengguna bisa melihat terlebih dahulu materi didalam aplikasi tersebut bagaimana, dan jika cocok baru pengguna bisa login.
+
+## Kesimpulan
+Berdasarkan uraian diatas, ada beberapa poin agar aplikasi ini dilirik oleh user dan diharapkan mampu meningkatkan penggunaan aplikasi tersebut, antara lain :
+
+- Fitur bahasa Indonesia
+- Fitur 'hint' dalam pengerjaan soal
+- Opsi untuk membuat playground sendiri
+- Achievment
+##
